@@ -1,6 +1,7 @@
 # 🖥️ IT Support Home Lab
 
-![Project Banner](./screenshots/banner.png) <!-- Optional: create a simple banner image -->
+<img width="1800" height="600" alt="image" src="https://github.com/user-attachments/assets/4572df44-3ee7-4fcd-aee6-02d2bf0c2d69" />
+ <!-- Optional: create a simple banner image -->
 
 **A virtual IT lab environment built to simulate real‑world help desk, system administration, and networking tasks.**  
 This self‑directed project demonstrates hands‑on technical skills essential for entry‑level IT support and SOC analyst roles.

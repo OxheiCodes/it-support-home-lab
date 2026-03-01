@@ -187,16 +187,12 @@ Simulate real‑world IT support using a professional ticketing platform.
 - **Applications installed/managed:** 3+
 - **Network configurations tested:** 2 (NAT, Bridged)
 - **Support tickets resolved:** 5
-- **Total hands‑on hours:** `[X hours]`
-
 ---
 
 ## 💡 Technical Skills Acquired
 
 ### Operating Systems
 - Windows 11 administration
-- Ubuntu Linux basics
-- Multi‑OS environment management
 
 ### Virtualization
 - VMware Workstation
@@ -211,15 +207,6 @@ Simulate real‑world IT support using a professional ticketing platform.
 - Ticketing systems (Freshdesk)
 - Documentation practices
 - Issue tracking & resolution
-
----
-
-## 🎓 Lessons Learned
-
-- **Documentation is critical:** Detailed notes made troubleshooting faster and created valuable reference material.
-- **Systematic approach works:** Following methodical troubleshooting steps leads to faster problem resolution.
-- **Virtualization is powerful:** Ability to create isolated test environments without affecting production systems.
-- **Hands‑on practice matters:** Reading about IT concepts vs. actually implementing them are vastly different experiences.
 
 ---
 

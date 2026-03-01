@@ -49,7 +49,7 @@ Built a virtual IT lab to simulate an enterprise IT environment.
 - Resource allocation and optimization
 
 ### Screenshots
-![VMware Dashboard](<img width="2048" height="1482" alt="WindowsDesk" src="https://github.com/user-attachments/assets/f5ce7a6a-e40d-4de0-9e31-1b4f995808a6" />)
+![VMware Dashboard] <img width="2048" height="1482" alt="WindowsDesk" src="https://github.com/user-attachments/assets/6448c427-b397-4a69-a874-4c7c4633d22f" />
 *Figure 1: VMware Workstation showing running VMs*
 
 ![Windows 11 System Properties](./screenshots/win11-sysprops.png)  

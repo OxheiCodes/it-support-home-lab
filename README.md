@@ -135,15 +135,14 @@ Understand and troubleshoot network connectivity in a virtualized environment.
 > **Outcome:** Full internet connectivity restored
 
 ### Screenshots
-![ipconfig Output] 
-<img width="1155" height="1032" alt="image (2)" src="https://github.com/user-attachments/assets/daf60f57-d749-471c-84c5-06042b7f3c20" />
-
+![ipconfig Output]
+<img width="1155" height="1032" alt="image (2)" src="https://github.com/user-attachments/assets/daf60f57-d749-471c-84c5-06042b7f3c20" /> <img width="1155" height="1032" alt="image (3)" src="https://github.com/user-attachments/assets/f631847f-3c60-40c0-b614-f279278fe215" />
 *Figure 7: IP configuration before troubleshooting*
 
-![Ping Test](./screenshots/ping-test.png)  
+![Ping Test] <img width="1155" height="1032" alt="image (4)" src="https://github.com/user-attachments/assets/689756c3-d853-4e8b-a48a-f30396e439f7" /> <img width="1155" height="1032" alt="image (5)" src="https://github.com/user-attachments/assets/18a011d5-1f93-4a6a-a237-21901f2cfdb6" />
 *Figure 8: Successful ping to google.com after fix*
 
-![Network Adapter Settings](./screenshots/network-adapter.png)  
+![Network Adapter Settings] <img width="1365" height="1032" alt="image" src="https://github.com/user-attachments/assets/9de6cb0f-5267-4e9a-9b52-269523889b15" />
 *Figure 9: Changing network adapter mode in VMware*
 
 ---
@@ -175,11 +174,8 @@ Simulate real‑world IT support using a professional ticketing platform.
 - Issue tracking and resolution
 
 ### Screenshots
-![Freshdesk Dashboard](./screenshots/freshdesk-dashboard.png)  
+![Freshdesk Dashboard] <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/28a58e46-525e-4d99-83f1-3b6df81d7859" /> <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/9144dfd0-2cbb-43fc-8bb8-1d6f9c616a91" />
 *Figure 10: Freshdesk portal with ticket list*
-
-![Ticket Example](./screenshots/ticket-example.png)  
-*Figure 11: Detailed ticket with resolution notes*
 
 ---
 
@@ -226,17 +222,6 @@ Simulate real‑world IT support using a professional ticketing platform.
 
 ---
 
-## 🚀 Next Steps
-
-- [ ] Implement an Active Directory domain environment
-- [ ] Configure Group Policy Objects (GPO)
-- [ ] Set up file sharing and permissions
-- [ ] Practice PowerShell scripting for automation
-- [ ] Explore monitoring and backup solutions
-- [ ] Integrate a SIEM tool (like Splunk or Wazuh) for security monitoring
-
----
-
 ## 🛠️ Tools & Technologies Used
 
 - **VMware Workstation Pro** – Virtualization platform
@@ -245,14 +230,6 @@ Simulate real‑world IT support using a professional ticketing platform.
 - **Freshdesk** – Help desk ticketing system
 - **Command‑line utilities** – ipconfig, ping, etc.
 - **Markdown** – Documentation
-
----
-
-## 📬 Contact & Portfolio
-
-**GitHub:** [Your GitHub Profile URL](https://github.com/yourusername)  
-**LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile)  
-**Portfolio:** [Your Website/Portfolio URL] *(optional)*
 
 ---
 

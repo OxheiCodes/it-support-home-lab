@@ -52,7 +52,7 @@ Built a virtual IT lab to simulate an enterprise IT environment.
 ![VMware Dashboard] <img width="2048" height="1482" alt="WindowsDesk" src="https://github.com/user-attachments/assets/6448c427-b397-4a69-a874-4c7c4633d22f" />
 *Figure 1: VMware Workstation showing running VMs*
 
-![Windows 11 System Properties](./screenshots/win11-sysprops.png)  
+![Windows 11 System Properties] <img width="1228" height="889" alt="image (1)" src="https://github.com/user-attachments/assets/94347404-32b1-4edf-b549-e376c58624cf" />
 *Figure 2: Windows 11 VM system information*
 
 ---
@@ -75,10 +75,10 @@ Practice essential user administration tasks in a Windows environment.
 - Windows user management tools
 
 ### Screenshots
-![User Management Interface](./screenshots/user-management.png)  
+![User Management Interface] <img width="1155" height="1032" alt="image" src="https://github.com/user-attachments/assets/9b6ddc78-f207-4c34-b033-adcc9e4be210" />
 *Figure 3: Local Users and Groups showing created accounts*
 
-![Account Properties](./screenshots/account-properties.png)  
+![Account Properties] <img width="1155" height="1032" alt="image" src="https://github.com/user-attachments/assets/b36cee4e-08e6-444f-8a63-769249b7564c" />
 *Figure 4: Administrator privileges for helpdesk1*
 
 ---
@@ -102,10 +102,10 @@ Demonstrate application lifecycle management and troubleshooting capabilities.
 - Problem documentation
 
 ### Screenshots
-![Programs and Features](./screenshots/programs-features.png)  
+![Programs and Features] <img width="1155" height="1032" alt="image" src="https://github.com/user-attachments/assets/c7cf709a-ca16-455f-9759-6f323d6ef73f" /> <img width="1155" height="1032" alt="image" src="https://github.com/user-attachments/assets/be3a2eca-4ed9-4c64-b190-bbfe9ee4d267" />
 *Figure 5: Installed applications list*
 
-![Repair Operation](./screenshots/repair-operation.png)  
+![Repair Operation] <img width="1155" height="1032" alt="image" src="https://github.com/user-attachments/assets/ac9038c6-b9e0-4c17-acf2-1d88442f2e10" /> <img width="1155" height="1032" alt="image" src="https://github.com/user-attachments/assets/613f1f0a-1e23-4810-9aeb-018a3bf6c994" />
 *Figure 6: Repairing an application via Control Panel*
 
 ---
@@ -135,7 +135,9 @@ Understand and troubleshoot network connectivity in a virtualized environment.
 > **Outcome:** Full internet connectivity restored
 
 ### Screenshots
-![ipconfig Output](./screenshots/ipconfig.png)  
+![ipconfig Output] 
+<img width="1155" height="1032" alt="image (2)" src="https://github.com/user-attachments/assets/daf60f57-d749-471c-84c5-06042b7f3c20" />
+
 *Figure 7: IP configuration before troubleshooting*
 
 ![Ping Test](./screenshots/ping-test.png)  
